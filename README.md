@@ -1,3 +1,2 @@
 # presentation
-different presentations
-I will append other presentations gradually.
+different presentations I will append other presentations gradually.
